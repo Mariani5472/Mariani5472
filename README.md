@@ -1,4 +1,5 @@
 ### Oie gente sou o Vinicius Mariani, estudante e desenvolvedor junior!!!!
+### Aqui posto alguns projetos pessoais e de estudo, dependendo do ritmo da faculdade a frequencia pode mudar mas vou tentar sempre que pudar postar coisas novas :)!!
 
 
 <div style="display: inline_block"><br>
